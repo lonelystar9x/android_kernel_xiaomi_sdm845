@@ -160,3 +160,4 @@ config EXPOSURE_ADJUSTMENT
 	help
           The EXPOSURE ADJUSTMENT provides exposure adjustment function without change
           panel hardware brightness to avoid PWM flicker on OLED devices.
+
